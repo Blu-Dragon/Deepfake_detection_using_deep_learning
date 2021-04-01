@@ -1,0 +1,9 @@
+venv
+.vs
+.vscode
+Django*Application/models/*
+!Django*Application/models/Readme.txt
+Django*Application/uploaded_images/*
+!Django*Application/uploaded_images/Readme.txt
+Django*Application/uploaded_videos/*
+!Django*Application/uploaded_videos/Readme.txt
